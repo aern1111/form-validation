@@ -1,0 +1,219 @@
+.image img {
+  width: 100px;
+  margin-left: 50px;
+  margin-bottom: -50px;
+}
+
+.logo1 {
+  margin-right: 100px;
+}
+
+.t {
+  margin-bottom: 20px;
+}
+
+.mju {
+  margin-left: 15px;
+}
+
+.heading {
+  padding-left: 59px;
+}
+
+.dropdownterm {
+  width: 160px;
+  height: 30px;
+  margin-left: 20px;
+}
+
+.dropdownyearyear {
+  width: 1ค0px;
+  margin-left: 20px;
+  margin-bottom: 2px;
+}
+
+.inform1 {
+  padding-left: 59px;
+}
+
+.inform2 {
+  width: 555px;
+  height: 30px;
+  margin-top: 10px;
+  margin-left: 27.5px;
+}
+
+
+.line1 {
+  margin-top: 10px;
+  padding-left: 140px;
+}
+
+.username{
+  width: 275px;
+}
+
+.usersurname{
+  width: 275px;
+}
+
+.line2 {
+  margin-top: 10px;
+  padding-left: 59px;
+}
+
+.studentCode {
+  width: 280px;
+}
+
+.phoneNumber {
+  width: 280px;
+}
+
+.line3 {
+  margin-top: 10px;
+  padding-left: 59px;
+}
+
+.check1 {
+  margin-left: 20px;
+}
+
+.check2 {
+  margin-left: 20px;
+}
+
+.check3 {
+  margin-left: 20px;
+}
+
+.check4 {
+  margin-left: 20px;
+}
+
+.line4 {
+  margin-top: 10px;
+  padding-left: 59px;
+}
+
+.nameSaka {
+  width: 420px;
+}
+
+.nameKana {
+  width: 420px;
+}
+
+.line5 {
+  margin-top: 10px;
+  padding-left: 59px;
+}
+
+.cause {
+  width: 657.5px;
+  margin-left: 20px;
+}
+
+.line6 {
+  margin-top: 10px;
+  padding-left: 59px;
+}
+
+.line7 {
+  margin-top: 10px;
+  padding-left: 140px;
+}
+
+.line8 {
+  margin-top: 15px;
+  margin-left: 600px;
+}
+
+.input-group {
+  margin-top: 30px;
+  margin-left: 510px;
+}
+
+.endline {
+  margin-top: 30px;
+  margin-left: 635px;
+}
+
+.input-group-text {
+  height: 32px;
+}
+
+.inputSignature {
+  width: 215px;
+  height: 32px;
+  border: 1px solid #e4e4e4;
+}
+
+.c-grid {
+  margin-top: 20px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  text-align: center;
+  border: 1px solid #333;
+}
+
+.sevice-grid {
+  padding: 20px;
+  border: 1px solid #333;
+}
+
+.buttonsubmit {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.form2 {
+  margin-top: 400px;
+}
+
+.input {
+  margin-left: 10px;
+}
+
+.writeForm2 {
+  margin-top: 5px;
+  padding-left: 600px;
+}
+
+.writeForm2-1 {
+  margin-top: 10px;
+  padding-left: 658.5px;
+}
+
+.writeForm2-2 {
+  margin-top: 10px;
+  padding-left: 658.5px;
+}
+
+.dateForm2 {
+  margin-top: 10px;
+  padding-left: 902px;
+  margin-bottom: 20px;
+}
+
+.causeForm2 {
+  width: 921.5px;
+}
+
+.endForm2 {
+  margin-top: 10px;
+  padding-left: 59px;
+}
+
+.endcForm2 {
+  margin-top: 30px;
+  margin-left: 606px;
+}
+
+.end {
+  margin-top: 30px;
+  padding-left: 100px;
+}
